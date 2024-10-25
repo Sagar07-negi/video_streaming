@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.logindiv{
+    width:28%;
+}
+.logindiv .loginbtns button{
+padding: 20px 50px;
+}
+
+.searchbtn::placeholder{
+    font-size: 20px;
+}
